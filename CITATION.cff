@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LinkOutage"
+abstract: "Outage and availability statistics for an optical link — fade-duration distributions, level-crossing rates, outage probability and availability from a seeded or supplied amplitude series, Markov and semi-Markov channel-state fitting with a goodness-of-fit report; short-horizon outage classifier against the analytic level-crossing-rate predictor and a logistic-regression baseline with calibration reported."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/linkoutage"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - optical-link-engineering
